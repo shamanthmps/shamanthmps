@@ -24,7 +24,7 @@ Engineering productivity platforms
 ## 📌 Featured Work
 
 🔹 [Sprint Capacity and Execution Tracking System](https://github.com/shamanthmps/sprint_capacity.git)  
-AI-built effort estimation and planning intelligence for Jira-based delivery environments.
+AI-built effort estimation and planning intelligence for Jira-based delivery environments. [Private Repo]
 
 🔹 [Impact Log](https://github.com/shamanthmps/impact-log)  
 Professional Achievement Tracking and Reflection System.
