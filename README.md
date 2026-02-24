@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shamanth 👋
 
-<!--
-**shamanthmps/shamanthmps** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Staff Technical Program Manager focused on building AI-driven delivery systems, automation platforms, and scalable engineering execution models.
 
-Here are some ideas to get you started:
+## 🚀 What I Do
+- Design systems that improve engineering productivity and delivery outcomes  
+- Build AI-powered tools for planning, estimation, and operational intelligence  
+- Lead Agile and DevOps transformation at scale  
+- Create practical automation that reduces manual effort and increases decision velocity  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Areas of Interest
+AI for engineering productivity  
+Technical program leadership  
+Delivery intelligence and analytics  
+Platform and process automation  
+Scalable operating models for engineering teams  
+
+## 🛠️ Technologies & Tools
+AI / Automation  
+Agile / Scrum / DevOps  
+Data-driven delivery systems  
+Engineering productivity platforms  
+
+## 📌 Featured Work
+(Projects will be listed here)
+
+## 🌐 Connect With Me
+Portfolio: https://shamanthkm.vercel.app/  
+LinkedIn: https://www.linkedin.com/in/shamanthkumarm/
