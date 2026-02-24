@@ -23,16 +23,13 @@ Engineering productivity platforms
 
 ## 📌 Featured Work
 
-🔹 AI Sprint Estimation System  
-AI-powered effort estimation and planning intelligence for Jira-based delivery environments.
+🔹 [Sprint Capacity and Execution Tracking System](https://github.com/shamanthmps/sprint_capacity.git)  
+AI-built effort estimation and planning intelligence for Jira-based delivery environments.
 
-🔹 Sprint Capacity Intelligence Dashboard  
-Centralized system to track team capacity, workload distribution, and planning accuracy.
+🔹 [Impact Log](https://github.com/shamanthmps/impact-log)  
+Professional Achievement Tracking and Reflection System.
 
-🔹 Engineering Delivery Tracker  
-End-to-end visibility into sprint execution, progress, and outcome tracking.
-
-🔹 Automation for Operational Efficiency  
+🔹 [Automation for Operational Efficiency](https://github.com/shamanthmps/work-flows)  
 Practical automation tools to reduce manual coordination and improve execution flow.
 
 ## 🌐 Connect With Me
