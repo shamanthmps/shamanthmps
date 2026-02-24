@@ -1,6 +1,6 @@
 # Hi, I'm Shamanth 👋
 
-Staff Technical Program Manager focused on building AI-driven delivery systems, automation platforms, and scalable engineering execution models.
+Staff TPM focused on building AI-driven delivery systems, automation platforms, and scalable engineering execution models.
 
 ## 🚀 What I Do
 - Design systems that improve engineering productivity and delivery outcomes  
