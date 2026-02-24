@@ -1,12 +1,11 @@
 ![Profile Banner](./banner.png)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=2E9FFF&center=true&vCenter=true&width=900&lines=Staff+Technical+Project+Manager;AI+Driven+Delivery+Systems;Automation+%26+Engineering+Scale;Building+Systems+That+Improve+Execution" />
+</p>
 
 # Hi, I'm Shamanth 👋
 
 Staff TPM focused on building AI-driven delivery systems, automation platforms, and scalable engineering execution models.
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthmps&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamanthmps&layout=compact&theme=tokyonight)
 
 ## 🚀 What I Do
 - Design systems that improve engineering productivity and delivery outcomes  
