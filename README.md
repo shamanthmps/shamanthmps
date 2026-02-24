@@ -1,3 +1,5 @@
+![Profile Banner](./banner.png)
+
 # Hi, I'm Shamanth 👋
 
 Staff TPM focused on building AI-driven delivery systems, automation platforms, and scalable engineering execution models.
