@@ -4,6 +4,10 @@
 
 Staff TPM focused on building AI-driven delivery systems, automation platforms, and scalable engineering execution models.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shamanthmps&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shamanthmps&layout=compact&theme=tokyonight)
+
 ## 🚀 What I Do
 - Design systems that improve engineering productivity and delivery outcomes  
 - Build AI-powered tools for planning, estimation, and operational intelligence  
@@ -22,6 +26,16 @@ AI / Automation
 Agile / Scrum / DevOps  
 Data-driven delivery systems  
 Engineering productivity platforms  
+
+## 🧰 Technology Stack
+AI & Automation  
+Agile & DevOps  
+TypeScript  
+React  
+Node.js  
+Power Automate  
+Data Analytics  
+System Design  
 
 ## 📌 Featured Work
 
