@@ -31,14 +31,40 @@ Data-driven delivery systems
 Engineering productivity platforms  
 
 ## 🧰 Technology Stack
-AI & Automation  
-Agile & DevOps  
-TypeScript  
-React  
-Node.js  
-Power Automate  
-Data Analytics  
-System Design  
+
+### 🚀 Agile & Delivery Platforms
+<p>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7?style=for-the-badge&logo=microsoftteams&logoColor=white"/>
+</p>
+
+### ⚙ Automation & Workflow
+<p>
+  <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-Pipelines-blue?style=for-the-badge"/>
+</p>
+
+### ☁ Engineering & DevOps Foundations
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps-Practices-purple?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-Architecture-darkgreen?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cloud-Environments-orange?style=for-the-badge"/>
+</p>
+
+### 📊 Delivery Intelligence
+<p>
+  <img src="https://img.shields.io/badge/Sprint%20Metrics-Tracking-success?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Capacity-Planning-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Delivery-Forecasting-informational?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Operational-Dashboards-critical?style=for-the-badge"/>
+</p>
 
 ## 📌 Featured Work
 
