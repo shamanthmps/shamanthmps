@@ -22,7 +22,18 @@ Data-driven delivery systems
 Engineering productivity platforms  
 
 ## 📌 Featured Work
-(Projects will be listed here)
+
+🔹 AI Sprint Estimation System  
+AI-powered effort estimation and planning intelligence for Jira-based delivery environments.
+
+🔹 Sprint Capacity Intelligence Dashboard  
+Centralized system to track team capacity, workload distribution, and planning accuracy.
+
+🔹 Engineering Delivery Tracker  
+End-to-end visibility into sprint execution, progress, and outcome tracking.
+
+🔹 Automation for Operational Efficiency  
+Practical automation tools to reduce manual coordination and improve execution flow.
 
 ## 🌐 Connect With Me
 Portfolio: https://shamanthkm.vercel.app/  
