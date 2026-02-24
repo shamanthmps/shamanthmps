@@ -23,6 +23,9 @@ Engineering productivity platforms
 
 ## 📌 Featured Work
 
+🔹 [Personal Portfolio Website (AI-Built)](https://github.com/shamanthmps/shamanth-portfolio)  
+AI-assisted personal portfolio showcasing projects, experience, and technical leadership focus. Built with modern web technologies and deployed live.
+
 🔹 [Sprint Capacity and Execution Tracking System](https://github.com/shamanthmps/sprint_capacity.git)  
 AI-built effort estimation and planning intelligence for Jira-based delivery environments. [Private Repo]
 
